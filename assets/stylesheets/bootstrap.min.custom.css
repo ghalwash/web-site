@@ -1,0 +1,14 @@
+.btn-outline-success {
+    color: #4e5d6c;
+    border-color: #2b3e50;
+}
+img {
+  border-radius: 60%;
+  float:right;
+  height: auto;
+}
+.btn-link {
+    font-weight: 400;
+    color: #bcd8d8;
+    text-decoration: none;
+}
